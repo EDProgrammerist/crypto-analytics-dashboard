@@ -18,6 +18,11 @@
 
   <h3 align="center">CryptoPulse — Analytics Dashboard</h3>
 
+   <div align="center">
+     <a href="" target="_blank"><b></b></a> 
+    </div>
+</div>
+
 ## 📋 <a name="table">Table of Contents</a>
 
 1. ✨ [Introduction](#introduction)
@@ -27,9 +32,13 @@
 5. 🔗 [Assets](#links)
 6. 🚀 [More](#more)
 
+
 ## <a name="introduction">✨ Introduction</a>
 
 CryptoPulse is a high-performance analytics dashboard built with Next.js 16, TailwindCSS v4, and shadcn/ui, delivering real-time market intelligence via CoinGecko’s API and WebSockets. It features high-frequency price tracking and live orderbook streams for low-latency updates, paired with interactive TradingView candlestick charts to visualize OHLCV data with surgical precision. From a dynamic homepage showcasing global stats and trending assets to robust token pages with multi-fiat converters and advanced search tables, the platform provides a modular, developer-friendly stack optimized for speed and clarity.
+
+
+<a href="" target="_blank"><img src="" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -105,7 +114,7 @@ NEXT_PUBLIC_COINGECKO_WEBSOCKET_URL=
 NEXT_PUBLIC_COINGECKO_API_KEY=
 ```
 
-Replace the placeholder values with your real credentials. You can get these by signing up at: [**Coingecko**](https://www.coingecko.com/).
+Replace the placeholder values with your real credentials. You can get these by signing up at: [**Example**](https://jsm.dev/example).
 
 **Running the Project**
 
@@ -114,6 +123,7 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+
 
 ## <a name="more">🚀 Copyright</a>
 
